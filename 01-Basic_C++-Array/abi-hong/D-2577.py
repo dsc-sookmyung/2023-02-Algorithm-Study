@@ -10,6 +10,5 @@ for i in numberList:
   multiplyNum *= i
 
 multiplyNumList = [int(i) for i in str(multiplyNum)]
-
 for i in range(10):
   print(multiplyNumList.count(i))
