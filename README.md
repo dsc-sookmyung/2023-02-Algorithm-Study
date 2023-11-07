@@ -10,7 +10,7 @@
 - [강민지](https://github.com/sop0327)
 - [김채연](https://github.com/Jasmin0010)
 - [이혜린](https://github.com/06_ll)
-- [조수민](https://github.com/)
+- [조수민](https://github.com/sop0327)
 - [최예나](https://github.com/YenaChoi00)
 - [홍희수](https://github.com/abi-hong)
 
