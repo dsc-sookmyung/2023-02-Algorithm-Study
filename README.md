@@ -7,9 +7,9 @@
 ### 🙋🏻‍♀️ 스터디 Lead
 - [윤채은](https://github.com/melitina915), [길수민](https://github.com/2093ab)
 ### 👩🏻‍💻 스터디 참여 Member
-- [강민지](https://github.com/sop0327)
-- [김채연](https://github.com/Jasmin0010)
-- [이혜린](https://github.com/06_ll)
+- [강민지](https://github.com/mingd0d)
+- [김채연](https://github.com/)
+- [이혜린](https://github.com/2hyerin)
 - [조수민](https://github.com/Jasmin0010)
 - [최예나](https://github.com/YenaChoi00)
 - [홍희수](https://github.com/abi-hong)
