@@ -10,7 +10,7 @@ def bfs(x, y):
     dy = [-1, 1, -1, 1, -1, 0, 1]
     queue = deque()
     queue.append((x, y))    # 도착지
-    map[x][y] = 0         # 방문 표시
+    map[x][y] = "#"         # 방문 표시
     cnt = 0
 
     while queue:
@@ -20,9 +20,9 @@ def bfs(x, y):
             nx = dx[i]+x
             ny = dy[i]+y
 
-            if 0 <= nx < n and 0 <= ny < n and map[nx][ny] != "#" and map[nx][ny] != 0:
+            if 0 <= nx < n and 0 <= ny < n and map[nx][ny] != "#":
                 queue.append((nx, ny))
-                map[nx][ny] = 0
+                map[nx][ny] = "#"
                 cnt += 1
 
     return cnt
