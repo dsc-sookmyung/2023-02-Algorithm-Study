@@ -1,4 +1,3 @@
-#import numpy as np
 import math
 nn = int(input())
 original = []

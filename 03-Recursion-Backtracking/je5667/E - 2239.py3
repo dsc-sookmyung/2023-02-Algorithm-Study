@@ -1,3 +1,4 @@
+##
 def cal(x, y):
     return (x//3)*3 + (y//3)
 

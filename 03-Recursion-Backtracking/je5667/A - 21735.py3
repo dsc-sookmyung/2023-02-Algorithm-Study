@@ -1,3 +1,4 @@
+##
 def Back(time, index, value):
     global answer
     value += arr[index]
