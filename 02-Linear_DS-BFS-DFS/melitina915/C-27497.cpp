@@ -135,4 +135,6 @@ int main() {
 			cout << dq[i];
 		}
 	}
+  
+	return 0;
 }
