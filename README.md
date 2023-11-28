@@ -8,7 +8,7 @@
 - [윤채은](https://github.com/melitina915), [길수민](https://github.com/2093ab)
 ### 👩🏻‍💻 스터디 참여 Member
 - [강민지](https://github.com/mingd0d)
-- [김채연](https://github.com/)
+- [김채연](https://github.com/Je566a7)
 - [이혜린](https://github.com/2hyerin)
 - [조수민](https://github.com/Jasmin0010)
 - [최예나](https://github.com/YenaChoi00)
@@ -27,9 +27,9 @@
 | <ul><li>- [x] </li></ul> | 1주차 | C++ 기본 / 배열 |
 | <ul><li>- [x] </li></ul> | 2주차 | 스택, 큐, 덱 / BFS, DFS |
 | <ul><li>- [x] </li></ul> | 3주차 | 재귀, 백트래킹 |
-| <ul><li>- [x] </li></ul> | 4주차 | 정렬 / 다이나믹 프로그래밍 / 그리디 / 수학 |
-| <ul><li>- [x] </li></ul> | 5주차 | 이분탐색, 투포인터 / 해시 |
-| <ul><li>- [x] </li></ul> | 6주차 | 이진 검색 트리, 우선순위 큐 / 그래프, 트리 |
+| <ul><li>- [ ] </li></ul> | 4주차 | 정렬 / 다이나믹 프로그래밍 / 그리디 / 수학 |
+| <ul><li>- [ ] </li></ul> | 5주차 | 이분탐색, 투포인터 / 해시 |
+| <ul><li>- [ ] </li></ul> | 6주차 | 이진 검색 트리, 우선순위 큐 / 그래프, 트리 |
 
 
 ## 💻 과제
@@ -53,6 +53,6 @@
 3. 자신의 아이디어와 풀이(구현) 방법
 4. 전체 코드
 ### 출석
-일요일 자정까지 문제 풀이와 PR 완료!
+월요일 자정까지 문제 풀이와 PR 완료!
 - 백준 그룹 [23-24 GDSC Sookmyung](https://www.acmicpc.net/group/practice/19300) 연습 탭에 있는 스코어보드를 기준으로 모두 풀려있어야 합니다.
 - Github PR이 되어 있어야 합니다.
